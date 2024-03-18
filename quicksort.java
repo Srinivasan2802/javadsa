@@ -1,4 +1,4 @@
-'''quicksort implementation'''
+//quicksort implementation//
 
 import java.util.Scanner;
 
