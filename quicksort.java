@@ -44,7 +44,7 @@ public class Main {
       //recursive call
         if (l < h) {
             int j = part(a, l, h);
-            quicksort(a, l, j - 1);
+            quicksort(a, l, j);
             quicksort(a, j + 1, h);
         }
     }
